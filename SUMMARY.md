@@ -1,3 +1,26 @@
-# Table of content
+# Summary
 
-* [First Chapter](chapter1.md)
+* [Introduction](README.md)
+* [About the Authors](about_the_authors.md)
+* [About the Technical Reviewer](about_the_technical_reviewer.md)
+* [Acknowledgments](acknowledgments.md)
+* [Chapter 1: Getting Started with Windows 10 Applications](chapter_1_getting_started_with_windows_10_applicat.md)
+* [Chapter 2: WinJS Fundamentals](chapter_2_winjs_fundamentals.md)
+* [Chapter 3: Basic WinJS Controls](chapter_3_basic_winjs_controls.md)
+* [Chapter 4: List Controls, AppBars, and ToolBar](chapter_4_list_controls,_appbars,_and_toolbar.md)
+* [Chapter 5: Data Binding and Navigation](chapter_5_data_binding_and_navigation.md)
+* [Chapter 6: Adapting the UI for Different Screens](chapter_6_adapting_the_ui_for_different_screens.md)
+* [Chapter 7: Application Lifecycle and Navigation](chapter_7_application_lifecycle_and_navigation.md)
+* [Chapter 8: Globalization and Localization](chapter_8_globalization_and_localization.md)
+* [Chapter 9: Data Storage and App Data](chapter_9_data_storage_and_app_data.md)
+* [Chapter 10: Sharing Data](chapter_10_sharing_data.md)
+* [Chapter 11: Background Tasks](chapter_11_background_tasks.md)
+* [Chapter 12: Location and Maps in Windows Apps](chapter_12_location_and_maps_in_windows_apps.md)
+* [Chapter 13: Building Apps That Connect to the Cloud](chapter_13_building_apps_that_connect_to_the_cloud.md)
+* [Chapter 14: Tiles and Notifications](chapter_14_tiles_and_notifications.md)
+* [Chapter 15: Device Capabilities](chapter_15_device_capabilities.md)
+* [Chapter 16: Additional Tools](chapter_16_additional_tools.md)
+* [Chapter 17: Sideloading and Windows App Certification Kit](chapter_17_sideloading_and_windows_app_certificati.md)
+* [Chapter 18: Store and Monetization](chapter_18_store_and_monetization.md)
+* [Index](index.md)
+
