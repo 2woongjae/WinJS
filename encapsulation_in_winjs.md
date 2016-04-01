@@ -1,0 +1,2 @@
+# Encapsulation in WinJS
+
