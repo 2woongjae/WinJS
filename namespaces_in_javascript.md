@@ -40,7 +40,7 @@ DeveloperPublish.Utilities = {
 }
 ```
 
-** 인자 두개 짜리 define *** 
+** 인자 두개 짜리 define ** 
 
 ```
 // Apress 라는 새로운 네임스페이스를 만들면서, 그안에 Utilities 라는 객체를 만든다.
