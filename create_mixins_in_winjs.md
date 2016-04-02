@@ -55,5 +55,8 @@ console.log(ContractEmployee1.type);
 ```
 
 **derive 와 다른 몇가지 특징이 더 있다**
-* 다중 상속을 지원한다.
-* 두번째 인자인 mixins 는 array 이기 때문에 다중 상속이 가능하다. (예제 필요)
+* 다중 상속을 지원한다. 두번째 인자인 mixins 는 array 이기 때문에 다중 상속이 가능하다. (예제 필요)
+
+**당신의 타입들에 기능을 추가할 수 있다. Mixins 는 WinJS 에 있는 많은 타입들에 넣을 수 있는 구현된 함수들이 있다.**
+* WinJS.Utilities.eventMixin : 이 Mixin 은 당신이 정의한 어떤 타입에도 이벤트 관리 기능들을 추가할 수 있다. (ex) WinJS.Utilities.eventMixin.addEventListener, WinJS.Utilities.eventMixin.removeEventListener, WinJS.Utilities.eventMixin.dispatchEventListener
+* WinJS.Binding.dynamicObservableMixin : 프로퍼티의 값을 변경하면, 알려주는 리스너를 바인딩 해주는 Mixin
