@@ -1,2 +1,2 @@
-# Declaring a WinJS Control on a Page
+## Declaring a WinJS Control on a Page
 
