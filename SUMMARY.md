@@ -17,6 +17,7 @@
    * [Create Mixins in WinJS](create_mixins_in_winjs.md)
    * [Encapsulation in WinJS](encapsulation_in_winjs.md)
    * [Using Promise in WinJS](using_promise_in_winjs.md)
+   * [Example](example.md)
 * [Chapter 3: Basic WinJS Controls](chapter_3_basic_winjs_controls.md)
    * [Declaring a WinJS Control on a Page](declaring_a_winjs_control_on_a_page.md)
    * [Setting Option for WinJS Controls](setting_option_for_winjs_controls.md)
