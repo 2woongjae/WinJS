@@ -30,6 +30,7 @@
    * [Displaying Text](displaying_text.md)
    * [Editing Text in an App](editing_text_in_an_app.md)
 * [Chapter 4: List Controls, AppBars, and ToolBar](chapter_4_list_controls,_appbars,_and_toolbar.md)
+   * [Using the Repeater Control](using_the_repeater_control.md)
 * [Chapter 5: Data Binding and Navigation](chapter_5_data_binding_and_navigation.md)
 * [Chapter 6: Adapting the UI for Different Screens](chapter_6_adapting_the_ui_for_different_screens.md)
 * [Chapter 7: Application Lifecycle and Navigation](chapter_7_application_lifecycle_and_navigation.md)
